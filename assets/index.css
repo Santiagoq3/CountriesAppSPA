@@ -218,6 +218,19 @@ body{
     color: white;
 }
 
+@media (max-width: 376px) {
+
+    .header h1{
+        font-size: 1rem;
+    }
+
+   
+    .main__search{
+        margin-left: 0.5em;
+    }
+
+}
+
 @media (min-width: 900px) {
 
     .main__countriesscreen-countrycard{
